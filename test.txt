@@ -10,5 +10,4 @@ edit text\
 branch test\
 marge test\
 this is master\
-\
 }
