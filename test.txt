@@ -9,5 +9,6 @@
 edit text\
 branch test\
 marge test\
+merge test again\
 \
 }
