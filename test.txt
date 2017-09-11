@@ -11,5 +11,5 @@ branch test\
 marge test\
 this is master\
 this sentence should appear when I merge it to master\
-\
+this was local master\
 }
