@@ -9,6 +9,6 @@
 edit text\
 branch test\
 marge test\
-merge test again\
+this is new branch\
 \
 }
