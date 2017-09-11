@@ -10,5 +10,6 @@ edit text\
 branch test\
 marge test\
 this is new branch\
+this sentence should appear when I merge it to master\
 \
 }
